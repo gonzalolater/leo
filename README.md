@@ -56,3 +56,7 @@ El script:
 
 - nodemailer: Para el envío de correos
 - dotenv: Para manejar variables de entorno
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
