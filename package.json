@@ -1,14 +1,14 @@
 {
   "name": "leo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Email Automation Script",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Gonzalo Daniel Aguilar",
+  "license": "MIT",
   "type": "commonjs",
   "dependencies": {
     "dotenv": "^17.2.3",
