@@ -57,6 +57,10 @@ El script:
 - nodemailer: Para el envío de correos
 - dotenv: Para manejar variables de entorno
 
+## Seguridad y Uso Ético
+
+⚠️ Este proyecto es solo para fines recreativos y educativos. Por favor, lee el archivo [SECURITY.md](SECURITY.md) para información importante sobre el uso responsable de este código.
+
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
